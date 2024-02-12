@@ -6,5 +6,9 @@ __pycache__/
 *.bin
 *.pkl
 *.pt
+*.pt.*
 *.pyc
 input.txt
+hi.txt.xz
+data/indic_hi_100k/hi.txt
+data/indic_hi_100k/hi_100k_hf/cache*
